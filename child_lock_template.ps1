@@ -1,5 +1,6 @@
 # ==============================================================================
-# SecureDevice.ps1
+# child_lock_template.ps1
+# Original file by u/nohalfmeasure
 # DESCRIPTION:
 # This script performs the following security hardening tasks on a Windows PC:
 # 1. Creates a new, secure local administrator account.
